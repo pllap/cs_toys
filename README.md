@@ -3,6 +3,6 @@
 * created by pllapallpal
 * on 2018/08/19
 
-* cs code of simple stack
-* cs code of simple queue
-* cs code of simple graph
+* C# code of simple stack
+* C# code of simple queue
+* C# code of simple graph
